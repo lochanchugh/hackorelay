@@ -1,0 +1,44 @@
+{
+"name": "GDSC DCE",
+"short_name": "GDSC DCE",
+"start_url": "/",
+"display": "standalone",
+"description": "A platform to connect, learn and grow together.",
+"lang": " en",
+"dir": "auto",  
+"theme_color": "#B76196",
+"background_color": "#0b031b",
+"orientation": "any",
+"icons": [
+    {
+        "src": "/assets/img/AppImages/android/android-launchericon-512-512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+    },
+    {
+        "src": "/assets/img/AppImages/android/android-launchericon-192-192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any"
+    }
+],
+"screenshots": [
+   
+],
+"related_applications": [
+    {
+        "url": "/",
+        "platform":"windows"
+        
+    }
+],
+"prefer_related_applications": false,
+"shortcuts": [
+    {
+        "name":"GDSC DCE",
+        "url":"/",
+        "description":"Home"
+    }
+]
+}
