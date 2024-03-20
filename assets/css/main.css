@@ -983,10 +983,10 @@ Cover
 
 @media (max-width: 767px) {
   .cover_slider .cover_item .slider_content .slider-content-inner .cover-title {
-    font-size: 14px;
+    font-size: 95px;
   }
   .cover_slider .cover_item .slider_content .slider-content-inner .cover-xl-text {
-    font-size: 34px;
+    font-size: 24px;
   }
   .cover_slider .cover_item .slider_content .slider-content-inner .cover-date {
     font-size: 14px;
