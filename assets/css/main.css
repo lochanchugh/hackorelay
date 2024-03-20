@@ -727,10 +727,12 @@ Cover
 }
 .cover_slider .cover_item .slider_content .slider-content-inner .cover-title {
   margin-top: 22px;
-  margin-bottom: 0;
+  margin-bottom: 40px;
+  font-size: 183px;
+  line-height: 1;
   opacity: 0;
   font-weight: 500;
-  color: #ffffff;
+  color: #B76196;
   text-transform: uppercase;
   -webkit-transform: translateY(20px);
   transform: translateY(20px);
@@ -740,10 +742,10 @@ Cover
 .cover_slider .cover_item .slider_content .slider-content-inner .cover-xl-text {
   opacity: 0;
   text-transform: uppercase;
-  font-size: 83px;
+  font-size: 43px;
   font-weight: 900;
   line-height: 1.1;
-  color: #B76196;
+  color: #FFFFFF;
   -webkit-transform: translateY(20px);
   transform: translateY(20px);
   -webkit-transition: all 0.4s 600ms ease-in-out;
@@ -1797,4 +1799,24 @@ textarea.form-control {
   overflow: hidden;
   transition: max-height 0.2s ease-out;
 }
+
+/* Floating button */
+.floatingwa {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 40px;
+  background-color: #B76196;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+ }
+ 
+ .fab-icon {
+  margin-top: 16px;
+ }
 
