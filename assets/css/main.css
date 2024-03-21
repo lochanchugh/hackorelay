@@ -660,6 +660,11 @@ footer .newsletter_form .form-control {
 .btn-rounded {
   border-radius: 50px;
 }
+.button-container {
+  display: flex;
+  justify-content: space-around;
+  
+}
 
 .btn-primary {
   background-color: #B76196;
