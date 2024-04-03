@@ -681,6 +681,20 @@ footer .newsletter_form .form-control {
   transition: all 300ms ease-in-out;
 }
 
+.btn-home2 {
+  background-color: #B76196;
+  border: solid 1px #B76196;
+  color: #ffffff;
+  -webkit-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
+}
+.btn-home2:hover {
+  background-color: #18181c;
+  color: #ffffff;
+  border: solid 1px #18181c;
+  -webkit-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
+}
 /*  ----------------------------------------------------
 Cover
 -------------------------------------------------------- */
